@@ -1,6 +1,6 @@
 # H1 03 JavaScript: Password Generator
 
-Deployed URL [file:///C:/Users/User/coding_bootcamp/homework/Week3JavaScript-PasswordGenerator/index.html]
+Deployed URL [https://marcuslau0903.github.io/Week3JavaScript-PasswordGenerator/]
 
 GitHub Page [https://github.com/marcuslau0903/Week3JavaScript-PasswordGenerator]
 
