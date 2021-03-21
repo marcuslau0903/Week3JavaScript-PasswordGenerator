@@ -16,6 +16,5 @@ In this Task I am required to create a responsive webpage that enables employees
 - [x] To create a strong password that provides greater security by randomly generating a password that meets certain criteria. 
 
 **When click on the *generate password* button, it will then present a series of prompts asking for password criteria's which include:**
-- [x] Validates user inputs. 
 - [x] Password length requirement that is at least 8 characters  and no more than 128 characters. 
 - [x] Uppercase, lowercase, numeric, and/or special characters.
