@@ -1,6 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-
+// Declare variables
 const lowerCaseArray = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 const upperCaseArray = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 const numbersArray = [1,2,3,4,5,6,7,8,9,0]
@@ -47,7 +47,7 @@ const generatePassword = function() {
           array[j] = temp;
       }
   }
-    // how to generate random elements from optionsArray??
+    // generate random elements from optionsArray
     for(let i = 0; i < passwordLength; i++) {
     shuffleArray(optionsArray)
     //selects a random index based on length of the options array
