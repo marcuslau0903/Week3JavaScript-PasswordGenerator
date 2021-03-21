@@ -4,11 +4,11 @@ Deployed URL [https://marcuslau0903.github.io/Week3JavaScript-PasswordGenerator/
 
 GitHub Page [https://github.com/marcuslau0903/Week3JavaScript-PasswordGenerator]
 
-#H2 Task 
+# H2 Task 
 
 In this Task I am required to create a responsive webpage that enables employees to generate random passwords based on the criteria that they've selected. The webpage will feature HTML and CSS powered by Javascript. 
 
-#h2 Acceptance Criteria Check List
+# h2 Acceptance Criteria Check List
 - [x] The user input is *validated* and password is *randomly* generated based on the selected criteria's. 
 - [x] When password is generated, it is displayed to the page.
 
